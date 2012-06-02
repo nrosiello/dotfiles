@@ -1,3 +1,6 @@
+" pathogen vim plugin manager
+call pathogen#infect()
+
 " tabs as 2 spaces
 set tabstop=2
 set shiftwidth=2
