@@ -17,3 +17,7 @@ set nocompatible
 syntax enable
 filetype plugin on
 filetype indent on
+
+" SingleCompile plugin
+nmap <F9> :SCCompile<cr>
+nmap <F10> :SCCompileRun<cr>
