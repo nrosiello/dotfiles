@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Applications/MacPorts/MacVim.app/Contents/Resources/vim/runtime/doc'
+let g:netrw_dirhist_2='/Users/nrosie/dev/ascent-web'
+let g:netrw_dirhist_3='/Users/nrosie/dev/ascent-compute/rb'
+let g:netrw_dirhist_4='/Users/nrosie/.vim'
